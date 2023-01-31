@@ -38,6 +38,7 @@ item.Salt.name=盐
 item.BrineBucket.name=盐水桶
 item.LithiumBucket.name=锂桶
 item.HeavyWaterBucket.name=重水桶
+item.BioEthanolBucket.name=生物乙醇桶
 item.FreeRunners.name=自由助跑器
 item.ArmoredJetpack.name=装甲喷气背包
 item.ConfigurationCard.name=配置卡
@@ -404,6 +405,7 @@ fluid.liquidsulfurtrioxide=液态三氧化硫
 fluid.sulfuricacid=硫酸
 fluid.liquidhydrogenchloride=液态氯化氢
 fluid.brine=盐水
+fluid.bioethanol=生物乙醇
 fluid.liquidethene=液态乙烯
 fluid.liquidsodium=液态钠
 fluid.heavywater=重水
@@ -1079,6 +1081,7 @@ reactor.capacity=热满足
 reactor.capacity.desc=反应堆温度已经趋于稳定
 reactor.depleted=燃料不足
 reactor.depleted.desc=反应没有足够的燃料维持
+gui.FusionCooling=聚变反应堆冷却配方(1:1)
 
 # Creative tab
 itemGroup.tabMekanism=通用机械
